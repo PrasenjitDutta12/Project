@@ -1,0 +1,6 @@
+{
+    "snyk.scanningMode": "auto",
+    "snyk.severity": {
+        "medium": false
+    }
+}
